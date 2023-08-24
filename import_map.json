@@ -2,8 +2,8 @@
   "imports": {
     "deco-sites/storefront/": "./",
     "$store/": "./",
-    "apps/": "https://denopkg.com/deco-cx/apps@625109ddcea7fadebfc59d785aec24e88e51e937/",
-    "$live/": "https://denopkg.com/deco-cx/deco@0aca82bb91cdff1cb6edd8f00b752271cc580326/",
+    "apps/": "https://denopkg.com/deco-cx/apps@027154204a3e948bbe958cba1c246f7bdcde6c02/",
+    "$live/": "https://denopkg.com/deco-cx/deco@a1af566e29dd8126d295c8e743b05666bbf198f8/",
     "$fresh/": "https://denopkg.com/deco-cx/fresh@1.3.6/",
     "preact": "https://esm.sh/preact@10.15.1",
     "preact/": "https://esm.sh/preact@10.15.1/",
