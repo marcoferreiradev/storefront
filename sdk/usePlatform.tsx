@@ -4,4 +4,4 @@ if (IS_BROWSER) {
   throw new Error("Cannot use this on the browser");
 }
 
-export const usePlatform = () => "vtex";
+export const usePlatform = () => "shopify";
